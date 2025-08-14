@@ -6,7 +6,7 @@ Just copy and paste the content below into a `README.md` file in the root of you
 
 An advanced chat application that allows users to engage in dynamic conversations with AI-powered personas of renowned developers and educators, **Hitesh Choudhary** and **Piyush Garg**.
 
-**[Visit the Live Demo](https://your-deployment-link.com)** 👈 _(Replace this with your deployed URL)_
+**[Visit the Live Demo](https://ai-persona-sable.vercel.app/)** 
 
 ![Project Screenshot](./public/ss.png)
 _(Replace this with a screenshot of your application)_
